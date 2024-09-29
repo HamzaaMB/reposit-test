@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "./dist"
+  },
+  "include": [
+    "src1/**/*.ts",
+    "src1/newtry.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
